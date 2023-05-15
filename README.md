@@ -1,4 +1,4 @@
-# zabbix_parks
+# Tamplate Zabbix OLTs PARKS
 Template PARKS para monitorar Sinal das ONUs 
 TEMPLATE TESTADO NAS VERSÕES 5+ DO ZABBIX e OLTs FIBERLINK-10008, FIBERLINK-20008 e FIBERLINK-30028
 
